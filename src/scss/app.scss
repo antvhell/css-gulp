@@ -1,8 +1,5 @@
-$color1: green;
-$color2: blue;
+
+@use 'base';
+@use 'header'
 
 
-body {
-    background-color: $color1;
-    font-size: 4rem;
-}
